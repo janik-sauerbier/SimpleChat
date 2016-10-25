@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleChat</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_chat">ChatActivity</string>
+
+    <string name="server_client_id">395681705562-pm7sdr0hdedrs9vqadatmeckaoto20fh.apps.googleusercontent.com</string>
+</resources>
